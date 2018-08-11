@@ -34,3 +34,9 @@ Epoch 2/2 Step 6170...... Discriminator Loss: 0.7610... Generator Loss: 1.4760
 Epoch 2/2 Step 6180...... Discriminator Loss: 1.3046... Generator Loss: 2.6152
 Epoch 2/2 Step 6190...... Discriminator Loss: 0.8598... Generator Loss: 1.1478
 Epoch 2/2 Step 6200...... Discriminator Loss: 0.7169... Generator Loss: 1.7651
+
+### References 
+1. [Udacity Deep Learning Projects](https://github.com/udacity/deep-learning)
+2. [Stanford Slides for Generative Adversarial Networks](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture13.pdf)
+3. [Sunita Sarawagi's Course on Deep Learning](https://www.cse.iitb.ac.in/~sunita/cs726/)
+4. [Generative Adversarial Models](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)

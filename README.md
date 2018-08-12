@@ -18,22 +18,33 @@ The generator tries to generate images which are as close as possible to the rea
 ### Results :-
 The outputs for the following parameters have been attached for both the celebA and MNIST dataset.
 
-batch_size = 64
-z_dim = 100
-learning_rate = 0.0003
+batch_size = 64,
+z_dim = 100,
+learning_rate = 0.0003,
 beta1 = 0.45
 
 The generator losses for the last few epochs are shown below:-
+
 Epoch 2/2 Step 6110...... Discriminator Loss: 1.1929... Generator Loss: 0.6893
+
 Epoch 2/2 Step 6120...... Discriminator Loss: 1.0025... Generator Loss: 1.1472
+
 Epoch 2/2 Step 6130...... Discriminator Loss: 0.8402... Generator Loss: 1.3703
+
 Epoch 2/2 Step 6140...... Discriminator Loss: 0.6574... Generator Loss: 1.8629
+
 Epoch 2/2 Step 6150...... Discriminator Loss: 0.7212... Generator Loss: 1.5189
+
 Epoch 2/2 Step 6160...... Discriminator Loss: 0.6946... Generator Loss: 2.3419
+
 Epoch 2/2 Step 6170...... Discriminator Loss: 0.7610... Generator Loss: 1.4760
+
 Epoch 2/2 Step 6180...... Discriminator Loss: 1.3046... Generator Loss: 2.6152
+
 Epoch 2/2 Step 6190...... Discriminator Loss: 0.8598... Generator Loss: 1.1478
+
 Epoch 2/2 Step 6200...... Discriminator Loss: 0.7169... Generator Loss: 1.7651
+
 
 ### References 
 1. [Udacity Deep Learning Projects](https://github.com/udacity/deep-learning)

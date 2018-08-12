@@ -1,4 +1,4 @@
-# Face Generation using Generative Adversarial Networks
+# Face Generation using Deep Convolutional Generative Adversarial Networks
 
 In this project, a deep convolutional generative adversarial network has been used to generate faces of celebrities and also for hand-written digit generation. The project is inspired from udacity deep learning nanoDegree program. The following gives the details of the implementation.
 
